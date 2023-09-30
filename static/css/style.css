@@ -1,0 +1,36 @@
+.image img{
+    position: relative;
+}
+.lo{
+    position: absolute;
+    top: 8%;
+    left: 15%;
+    font-size: 80px;
+    color: white;
+}
+.bo{
+    position: absolute;
+    top: 21%;
+    left: 15%;
+    font-size: 60px;
+    color: white;
+}
+.ba{
+    position: absolute;
+    top: 30%;
+    left: 15%;
+    font-size: 60px;
+    color: white;
+}
+.num{
+    position: absolute;
+    top: 50%;
+    left:15%;
+    font-size: 25px;
+}
+.sub{
+    position: absolute;
+    top: 60%;
+    left: 15%;
+    font-size: 20px;
+}
